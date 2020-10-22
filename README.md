@@ -1,2 +1,3 @@
-# gestion_ovh
-Script python3 para gestionar recursos de ovh
+# Gestión recursos ovh
+
+Para la configuración y puesta en marcha: [Jugando con la API de OVH](https://www.josedomingo.org/pledin/2020/09/jugando-api-ovh/)
